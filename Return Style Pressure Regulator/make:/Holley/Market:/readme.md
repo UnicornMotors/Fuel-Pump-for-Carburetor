@@ -7,6 +7,8 @@ sch:
 - https://www.google.com/search?q=holley+12-881
 - https://www.ebay.com/sch/i.html?_nkw=holley+12-881
 
+Amazon
+- https://www.amazon.com/Holley-Bypass-Regulator-Pressure-Chrome/dp/B01JP2IVTU
 
 ## Holley 12-887
 Home: https://www.holley.com/products/fuel_systems/fuel_pumps_regulators_and_filters/regulators/carbureted_regulators/parts/12-887
