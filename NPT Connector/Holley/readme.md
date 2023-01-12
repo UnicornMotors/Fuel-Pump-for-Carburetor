@@ -1,0 +1,2 @@
+- https://www.holley.com/products/plumbing_an_fittings_and_hose/hose_ends/vapor_guard/parts/781656ERL
+- https://www.holley.com/products/plumbing_an_fittings_and_hose/hose_ends/vapor_guard/parts/782266ERL
