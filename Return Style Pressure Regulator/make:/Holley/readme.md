@@ -10,4 +10,8 @@ sch: https://www.google.com/search?q=Holley+12-803
 Amazon
 - [$37.07](https://www.amazon.com/Holley-12-803-Fuel-Pressure-Regulator/dp/B00029JC6C)
 eBay
+- [$33.24](https://www.ebay.com/itm/304408243445)
 - [$41.19](https://www.ebay.com/itm/173900891007)
+
+Used:
+- [$19.95](https://www.ebay.com/itm/314308245319)
