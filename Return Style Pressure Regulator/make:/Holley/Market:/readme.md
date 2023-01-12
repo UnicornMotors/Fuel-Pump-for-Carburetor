@@ -10,6 +10,9 @@ sch:
 Amazon
 - https://www.amazon.com/Holley-Bypass-Regulator-Pressure-Chrome/dp/B01JP2IVTU
 
+Tier-2
+- https://thmotorsports.com/10759697-holley-12-881-carbureted-by-pass-regulator-60-psi
+
 ## Holley 12-887
 Home: https://www.holley.com/products/fuel_systems/fuel_pumps_regulators_and_filters/regulators/carbureted_regulators/parts/12-887
 
