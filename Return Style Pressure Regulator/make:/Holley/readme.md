@@ -1,7 +1,3 @@
-# Guide:
-- [How To Run An EFI Fuel Pump On A Carbureted Engine](https://youtu.be/jOUhOxWFPII)
-- [How To Choose A Regulator for Carbureted Vehicles](https://youtu.be/w7rCAreQsto)
-
 sch: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1311&_nkw=holley+fuel+pressure+regulator&_sacat=0
 
 # Home:
